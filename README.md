@@ -30,6 +30,6 @@ G.A.R.U.D.A. v3.0 — All-in-One Portable Executable (v1–v3 Complete)
 
 ---
 
-### Running `GARUDA-portable.exe` & Current Status
+### Running `GARUDA-portable.exe` & Current Status 
 * **Unsigned Binary Notice:** Because this portable build is not yet code-signed, Windows Defender SmartScreen may display an *"Unknown publisher"* warning on first launch.
 * **Verification Status:** All web views (day, night, mobile), 17 IMU calibration steps, altimeter/sound/LED/wheel tests, and metadata-stamped exports passed under simulated CubeSat testing. Native Windows `.exe` execution and live physical hardware testing are still pending—please report any issues in the **Issues** tab.
